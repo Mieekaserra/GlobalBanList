@@ -17,3 +17,5 @@ USER: 1097490374773186632 Reason of List Addition: "discord user is "sistersexua
 [Original Pull Request](https://github.com/NomadsReach/GlobalBanList/pull/4)
 
 ---
+
+User: 805926094355562567 & 805926094355562567   Reason of List Addition: transphobic - See 805926094355562567 & 805926094355562567 .png in the evidence 
